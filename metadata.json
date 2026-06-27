@@ -1,0 +1,6 @@
+{
+  "name": "Polymarket Airdrop Calculator",
+  "description": "Estimate your potential $POLY airdrop using real wallet activity and a customizable reward simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
